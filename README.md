@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @syam-s
+- 👋 Hi, I’m Syam
 - 👀 I’m interested in ...CFD and ML
 - 🌱 I’m currently learning ...Python and ML
 - 💞️ I’m looking to collaborate on ...CFD
